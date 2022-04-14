@@ -1,0 +1,14 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "dead-server --port=5000 --host=localhost"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
