@@ -26,10 +26,3 @@ Frontend and backend sections must be installed separately.
 3) frontend and backend start:` npm run start`;
 
 4) open  `http://localhost:5000`;
-
-
-```
-
-###Final Provisions
-
-This project is for educational purposes only.
